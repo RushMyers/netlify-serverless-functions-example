@@ -1,0 +1,23 @@
+{
+  "name": "netlify-serverless-functions-example",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RushMyers/netlify-serverless-functions-example.git"
+  },
+  "author": "Rush Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RushMyers/netlify-serverless-functions-example/issues"
+  },
+  "homepage": "https://github.com/RushMyers/netlify-serverless-functions-example#readme",
+  "devDependencies": {
+    "node-fetch": "2.6.1"
+  }
+}
